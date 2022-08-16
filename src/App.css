@@ -1,0 +1,14 @@
+.App {
+  max-width: 80%;
+  height: 85vh;
+  margin: 50px auto; 
+  box-shadow: 10px -2px 20px rgb(0 0 0 / 30%);
+  border-radius: 5px;
+  background-color: rgb(221, 246, 246);
+  display: flex;
+
+  
+}
+
+
+
